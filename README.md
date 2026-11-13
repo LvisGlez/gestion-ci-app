@@ -7,3 +7,4 @@ y un pipeline de Integracion Continua en Jenkins.
 - npm start: ejecuta la aplicacion
 - npm test: ejecuta las pruebas automatizadas
 - npm run build: genera la carpeta dist
+
