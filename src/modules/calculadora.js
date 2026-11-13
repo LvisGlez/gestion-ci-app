@@ -1,6 +1,6 @@
 // Suma dos numeros
 function sumar(a, b) {
-  return a + b;
+  return a - b;
 }
 
 // Resta el segundo numero al primero
